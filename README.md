@@ -1,4 +1,4 @@
-# Wazuh SOC Lab
+# Wazuh SIEM
 
 ## Overview
 
